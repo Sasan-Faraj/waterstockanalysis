@@ -85,6 +85,9 @@ The dataset contains a weekly breakdown of each state’s waterstock level by pe
   <img src="./WY - Most Common Level - 2015-2022.jpg" width="400">
 </p>
 
+Missouri has the most consistent water stock levels, as they did not record a single week where "adequate" was not the highest level. North Dakota had one of the most severe shortages in 2021, where "very short" was the highest level for over 60% of weeks in the year. The trends in the data suggest that prior to 2018, the majority of farms across each state had adequate amounts of water for their livestock. The majority of the problems for farms have come in the last four years, with all states except for Missouri having higher occurrences of farms recording "short" or "very short" levels. Although many farms in each state had occurrences of surpluses, "surplus" was never the level with the maximum number of occurrences in a given week.
+
+
 ## Causes of Water Shortages
 <a href="https://www.nationalgeographic.com/science/article/partner-content-americas-looming-water-crisis">America is running out of water</a>. The image below shows the states included in our data, which are all located in south and midwestern United States.
 <p align="middle">
