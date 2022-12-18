@@ -10,6 +10,12 @@ Farms across the United States that have or attend to cattle have access to wate
 
 We attempt to highlight trends in water stock levels across the states of Missouri, North Dakota, New Mexico, Utah, and Wyoming. The goal of the analysis is to identify which states are at risk, if at all, of lower water stock levels. Specifically, we hope to identify any states where more often than not, their water stock systems are at low levels or going towards that way.
 
+## Goals and Questions
+
+The primary questions are which states are at general risk of water shortage and how has water stock supply changed over time? Likewise, are any of these shifts due to season. 
+
+Through that, we have the goal of identifying at risk states and times. We hope to draw attention to the agricultural systems and how it needs much support to continue feeding Americans.
+
 ### Data:
 
 The data for this project comes for the [United Stated Department of Agriculture Department of Agriculture National Agricultural Statistics Service](https://quickstats.nass.usda.gov/). The data is recorded in a csv where you have the the state, the given week, the given water stock level, and the percentage of water stock systems at the level for that given week within that state. An example is depicted below.
